@@ -14,8 +14,9 @@
     "lite-server": "2.4.0"
   },
   "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.14",
     "openzeppelin-solidity": "^2.2.0",
-    "solc": "^0.5.2",
+    "solc": "^0.5.16",
     "solc-js": "^0.5.2"
   }
 }
