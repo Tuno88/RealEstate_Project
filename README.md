@@ -20,8 +20,13 @@ The capstone will build upon the knowledge you have gained in the course in orde
 - compile
 - migrate --reset
 - test test/TestERC721Mintable.js
+![TestERC721Mintable](https://user-images.githubusercontent.com/92582391/190145132-390ece7e-4af9-44f0-9dba-3573b8071d39.png)
+
 - test test/TestSolnSquareVerifier.js
+![solnVerifierTest](https://user-images.githubusercontent.com/92582391/190144832-f4dad071-91c2-4b6a-83e5-c88b013e6aa3.png)
+
 - test test/TestSquareVerifier.js
+![testVerifier](https://user-images.githubusercontent.com/92582391/190145355-68fbcb79-be14-4432-9fbe-14517fcad9cd.png)
 
 ### Contract Addresses, Contract Abi's, OpenSea MarketPlace Storefront link's.
 
@@ -791,6 +796,9 @@ The capstone will build upon the knowledge you have gained in the course in orde
   "type": "function"
   }
   ]
+
+- Mint 10 tokens
+![mint10tokens](https://user-images.githubusercontent.com/92582391/190145504-76d9c518-5160-44cb-a20b-da563be312d4.png)
 
 - OpenSea MarketPlace Storefront link's
 
